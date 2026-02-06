@@ -55,7 +55,32 @@ Mermaid Diagram Code
 ↓  
 Rendered Diagram and Export
 
----
+## Application Screenshots
+1. App Interface
+<img width="100%" alt="App Interface" src="https://github.com/user-attachments/assets/58c9c7d0-e77c-47c7-92d0-40a43e2f757c" />
+
+User interface showing text input, template suggestion, and real-time diagram generation preview.
+
+2. Generated Flowchart
+<img width="100%" alt="Generated Flowchart" src="https://github.com/user-attachments/assets/547a615f-bd9b-4702-ac10-44c23deab286" />
+
+Automatically generated flowchart from natural language input demonstrating decision-based process visualization.
+
+3. PDF Export
+<img width="100%" alt="PDF Export" src="https://github.com/user-attachments/assets/88b2ab7c-03a8-4d70-86d6-facd944ed403" />
+
+Diagram exported in PDF format preserving structure and layout for print-ready documentation.
+
+4. PNG Export
+<img width="100%" alt="PNG Export" src="https://github.com/user-attachments/assets/b4301b93-b5ed-456d-b964-3094cfe75c8f" />
+
+High-quality PNG image export of the generated diagram for easy sharing and presentation.
+
+5. SVG Export
+<img width="100%" alt="SVG Export" src="https://github.com/user-attachments/assets/333b6ea5-f8c0-4c74-8f76-e577e30310db" />
+
+Scalable Vector Graphics (SVG) export ensuring resolution-independent and editable diagram output.
+
 
 ## AI Processing Approach
 
